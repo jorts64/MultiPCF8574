@@ -1,3 +1,5 @@
+<img src="images/basic.jpg" alt="Conexionado ejemplo basic" width="600">
+
 # MultiPCF8574
 
 Librería Arduino / ESP8266 / ESP32 para controlar **múltiples módulos PCF8574 I²C** utilizando un sistema de **pines virtuales consecutivos**.
